@@ -1,0 +1,1 @@
+ismlar=['Abror','Ali','Abdulloh']
